@@ -1,7 +1,7 @@
 
 
 
-@media (min-width: 0px) and (max-width: 375px)
+@media (min-width: 320px) and (max-width: 375px)
 {
         .first_layer {
             height: auto;
@@ -29,6 +29,12 @@
             font-size: x-large; margin: 15px 0 5px 0; width: 100%;
             font-family: 'Trebuchet MS', 'Lucida Sans', sans-serif;
         } 
+
+        .text_description1, .text_description2, 
+        .text_description3, .text_description4, 
+        .text_description5, .text_description6 {
+        font-size: 5px;
+        }
 }
 
 
@@ -169,4 +175,5 @@
     .text_description5, .text_description6 {
         font-size: small;
     }
+
 }
