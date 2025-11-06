@@ -33,7 +33,7 @@
         .text_description1, .text_description2, 
         .text_description3, .text_description4, 
         .text_description5, .text_description6 {
-        font-size: 10px;
+        font-size: large;
         }
 }
 
@@ -177,4 +177,5 @@
     }
 
 }
+
 
